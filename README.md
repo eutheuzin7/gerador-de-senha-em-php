@@ -1,8 +1,7 @@
 # **[@eutheuzin7](https://github.com/eutheuzin7)**
 
-# <3
 <h4 align="center">Este é um simples gerador de senhas seguro em php</h4>
-
+##
 <h2 align="center"><strong>Instalação 💻</strong></h2>
 
 ```shell script
